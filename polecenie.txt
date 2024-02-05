@@ -1,0 +1,3 @@
+Gra powinna być wykonana z pomocą PyGame. Poruszamy się wężem, który zjadając kolejne artefakty
+wydłuża swoją długość, ale nie może się sam zjeść. Modyfikacja reguł dozwolona. Można dodawać
+przeszkody, których wąż nie może zjeść. 
